@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use srbench or its data, please cite the report."
+title: "srbench: tools for search-resistant benchmark tasks"
+version: 0.2.0
+date-released: 2026-10-26
+license: MIT
+repository-code: "https://github.com/rammaruboina-rgb/srbench"
+doi: 10.5281/zenodo.23647111
+authors:
+  - family-names: Maruboina
+    given-names: Rama Krishnudu
+    affiliation: OpenTrain
+keywords:
+  - AI evaluation
+  - LLM benchmarking
+  - red teaming
+  - OSINT
+  - fact verification
+  - research agents
+preferred-citation:
+  type: report
+  title: "Designing Search-Resistant Benchmark Tasks for AI Research Agents"
+  authors:
+    - family-names: Maruboina
+      given-names: Rama Krishnudu
+      affiliation: OpenTrain
+  year: 2026
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.23647111
+  url: "https://doi.org/10.5281/zenodo.23647111"
